@@ -1,0 +1,44 @@
+
+[Rank0] Generating topology...
+[Rank0] BFS complete.
+[Rank0] Starting MST...
+
+===== Phase 1 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=0
+Node 2: frag=2 rank=0
+Node 3: frag=3 rank=0
+[Root] merges = 1
+
+===== Phase 2 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=1
+Node 2: frag=2 rank=1
+Node 3: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 3 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=2
+Node 2: frag=0 rank=1
+Node 3: frag=0 rank=0
+[Root] merges = 1
+MST complete.
+
+===== MST Construction Completed =====
+Total time:      0.00095179 sec
+Total messages:  54
+Phases:          3
+Density:         0.5
+
+Final Fragment State:
+Node 0 → fragment 0, rank 0
+Node 1 → fragment 0, rank 2
+Node 2 → fragment 0, rank 1
+Node 3 → fragment 0, rank 0
+
+MST edges:
+0 -- 3 (w=6)
+0 -- 2 (w=7)
+0 -- 1 (w=19)
+Total MST edges: 3 (expected 3)

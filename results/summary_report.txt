@@ -1,0 +1,26 @@
+======================================================================
+DISTRIBUTED MST ALGORITHMS - TEST REPORT
+======================================================================
+
+Total tests: 48
+Successful:  47
+Failed:      1
+
+ALGORITHM PERFORMANCE
+----------------------------------------------------------------------
+
+GHS:
+  Avg execution time: 0.002998s
+  Avg total messages: 88
+  Avg MST weight:     52.73
+
+MK_MST:
+  Avg execution time: 0.002634s
+  Avg total messages: 246
+  Avg MST weight:     56.44
+
+CONTROLLED_GHS:
+  Avg execution time: 0.000988s
+  Avg total messages: 177
+  Avg MST weight:     0.00
+

@@ -1,0 +1,130 @@
+[
+  {
+    "nodes": 4,
+    "topology": "line",
+    "edges": 3,
+    "adjacency_file": "test_graphs/adjacency/line_4.txt",
+    "json_file": "test_graphs/json/line_4.json",
+    "adjlist_file": "test_graphs/adjlist/line_4.txt"
+  },
+  {
+    "nodes": 4,
+    "topology": "ring",
+    "edges": 4,
+    "adjacency_file": "test_graphs/adjacency/ring_4.txt",
+    "json_file": "test_graphs/json/ring_4.json",
+    "adjlist_file": "test_graphs/adjlist/ring_4.txt"
+  },
+  {
+    "nodes": 4,
+    "topology": "star",
+    "edges": 3,
+    "adjacency_file": "test_graphs/adjacency/star_4.txt",
+    "json_file": "test_graphs/json/star_4.json",
+    "adjlist_file": "test_graphs/adjlist/star_4.txt"
+  },
+  {
+    "nodes": 4,
+    "topology": "tree",
+    "edges": 3,
+    "adjacency_file": "test_graphs/adjacency/tree_4.txt",
+    "json_file": "test_graphs/json/tree_4.json",
+    "adjlist_file": "test_graphs/adjlist/tree_4.txt"
+  },
+  {
+    "nodes": 6,
+    "topology": "line",
+    "edges": 5,
+    "adjacency_file": "test_graphs/adjacency/line_6.txt",
+    "json_file": "test_graphs/json/line_6.json",
+    "adjlist_file": "test_graphs/adjlist/line_6.txt"
+  },
+  {
+    "nodes": 6,
+    "topology": "ring",
+    "edges": 6,
+    "adjacency_file": "test_graphs/adjacency/ring_6.txt",
+    "json_file": "test_graphs/json/ring_6.json",
+    "adjlist_file": "test_graphs/adjlist/ring_6.txt"
+  },
+  {
+    "nodes": 6,
+    "topology": "star",
+    "edges": 5,
+    "adjacency_file": "test_graphs/adjacency/star_6.txt",
+    "json_file": "test_graphs/json/star_6.json",
+    "adjlist_file": "test_graphs/adjlist/star_6.txt"
+  },
+  {
+    "nodes": 6,
+    "topology": "tree",
+    "edges": 5,
+    "adjacency_file": "test_graphs/adjacency/tree_6.txt",
+    "json_file": "test_graphs/json/tree_6.json",
+    "adjlist_file": "test_graphs/adjlist/tree_6.txt"
+  },
+  {
+    "nodes": 8,
+    "topology": "line",
+    "edges": 7,
+    "adjacency_file": "test_graphs/adjacency/line_8.txt",
+    "json_file": "test_graphs/json/line_8.json",
+    "adjlist_file": "test_graphs/adjlist/line_8.txt"
+  },
+  {
+    "nodes": 8,
+    "topology": "ring",
+    "edges": 8,
+    "adjacency_file": "test_graphs/adjacency/ring_8.txt",
+    "json_file": "test_graphs/json/ring_8.json",
+    "adjlist_file": "test_graphs/adjlist/ring_8.txt"
+  },
+  {
+    "nodes": 8,
+    "topology": "star",
+    "edges": 7,
+    "adjacency_file": "test_graphs/adjacency/star_8.txt",
+    "json_file": "test_graphs/json/star_8.json",
+    "adjlist_file": "test_graphs/adjlist/star_8.txt"
+  },
+  {
+    "nodes": 8,
+    "topology": "tree",
+    "edges": 7,
+    "adjacency_file": "test_graphs/adjacency/tree_8.txt",
+    "json_file": "test_graphs/json/tree_8.json",
+    "adjlist_file": "test_graphs/adjlist/tree_8.txt"
+  },
+  {
+    "nodes": 10,
+    "topology": "line",
+    "edges": 9,
+    "adjacency_file": "test_graphs/adjacency/line_10.txt",
+    "json_file": "test_graphs/json/line_10.json",
+    "adjlist_file": "test_graphs/adjlist/line_10.txt"
+  },
+  {
+    "nodes": 10,
+    "topology": "ring",
+    "edges": 10,
+    "adjacency_file": "test_graphs/adjacency/ring_10.txt",
+    "json_file": "test_graphs/json/ring_10.json",
+    "adjlist_file": "test_graphs/adjlist/ring_10.txt"
+  },
+  {
+    "nodes": 10,
+    "topology": "star",
+    "edges": 9,
+    "adjacency_file": "test_graphs/adjacency/star_10.txt",
+    "json_file": "test_graphs/json/star_10.json",
+    "adjlist_file": "test_graphs/adjlist/star_10.txt"
+  },
+  {
+    "nodes": 10,
+    "topology": "tree",
+    "edges": 9,
+    "adjacency_file": "test_graphs/adjacency/tree_10.txt",
+    "json_file": "test_graphs/json/tree_10.json",
+    "adjlist_file": "test_graphs/adjlist/tree_10.txt"
+  }
+]

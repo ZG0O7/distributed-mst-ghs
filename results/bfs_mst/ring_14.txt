@@ -1,0 +1,264 @@
+
+[Rank0] Generating topology...
+[Rank0] BFS complete.
+[Rank0] Starting MST...
+
+===== Phase 1 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=0
+Node 2: frag=2 rank=0
+Node 3: frag=3 rank=0
+Node 4: frag=4 rank=0
+Node 5: frag=5 rank=0
+Node 6: frag=6 rank=0
+Node 7: frag=7 rank=0
+Node 8: frag=8 rank=0
+Node 9: frag=9 rank=0
+Node 10: frag=10 rank=0
+Node 11: frag=11 rank=0
+Node 12: frag=12 rank=0
+Node 13: frag=13 rank=0
+[Root] merges = 1
+
+===== Phase 2 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=1
+Node 2: frag=2 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=4 rank=1
+Node 5: frag=5 rank=1
+Node 6: frag=6 rank=1
+Node 7: frag=7 rank=1
+Node 8: frag=8 rank=1
+Node 9: frag=9 rank=1
+Node 10: frag=10 rank=1
+Node 11: frag=11 rank=1
+Node 12: frag=12 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 3 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=2
+Node 2: frag=2 rank=2
+Node 3: frag=3 rank=2
+Node 4: frag=4 rank=2
+Node 5: frag=5 rank=2
+Node 6: frag=6 rank=2
+Node 7: frag=7 rank=2
+Node 8: frag=8 rank=2
+Node 9: frag=9 rank=2
+Node 10: frag=10 rank=2
+Node 11: frag=10 rank=1
+Node 12: frag=12 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 4 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=3 rank=3
+Node 4: frag=4 rank=3
+Node 5: frag=5 rank=3
+Node 6: frag=6 rank=3
+Node 7: frag=7 rank=3
+Node 8: frag=8 rank=3
+Node 9: frag=8 rank=2
+Node 10: frag=10 rank=2
+Node 11: frag=10 rank=1
+Node 12: frag=12 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 5 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=4 rank=4
+Node 5: frag=5 rank=4
+Node 6: frag=6 rank=4
+Node 7: frag=7 rank=4
+Node 8: frag=8 rank=4
+Node 9: frag=8 rank=2
+Node 10: frag=10 rank=2
+Node 11: frag=10 rank=1
+Node 12: frag=12 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 6 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=4 rank=5
+Node 5: frag=5 rank=5
+Node 6: frag=6 rank=5
+Node 7: frag=7 rank=5
+Node 8: frag=8 rank=5
+Node 9: frag=8 rank=2
+Node 10: frag=8 rank=2
+Node 11: frag=8 rank=1
+Node 12: frag=12 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 7 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=4 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=6 rank=6
+Node 7: frag=7 rank=6
+Node 8: frag=8 rank=6
+Node 9: frag=8 rank=2
+Node 10: frag=8 rank=2
+Node 11: frag=8 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 8 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=4 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=5 rank=6
+Node 7: frag=7 rank=7
+Node 8: frag=8 rank=7
+Node 9: frag=8 rank=2
+Node 10: frag=8 rank=2
+Node 11: frag=8 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 9 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=4 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=5 rank=6
+Node 7: frag=7 rank=8
+Node 8: frag=7 rank=7
+Node 9: frag=7 rank=2
+Node 10: frag=7 rank=2
+Node 11: frag=7 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 10 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=2 rank=3
+Node 3: frag=2 rank=3
+Node 4: frag=2 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=5 rank=6
+Node 7: frag=7 rank=9
+Node 8: frag=7 rank=7
+Node 9: frag=7 rank=2
+Node 10: frag=7 rank=2
+Node 11: frag=7 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 11 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=1 rank=3
+Node 3: frag=1 rank=3
+Node 4: frag=1 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=5 rank=6
+Node 7: frag=7 rank=10
+Node 8: frag=7 rank=7
+Node 9: frag=7 rank=2
+Node 10: frag=7 rank=2
+Node 11: frag=7 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 12 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=1 rank=3
+Node 3: frag=1 rank=3
+Node 4: frag=1 rank=6
+Node 5: frag=5 rank=6
+Node 6: frag=5 rank=6
+Node 7: frag=0 rank=10
+Node 8: frag=0 rank=7
+Node 9: frag=0 rank=2
+Node 10: frag=0 rank=2
+Node 11: frag=0 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+
+===== Phase 13 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=3
+Node 2: frag=1 rank=3
+Node 3: frag=1 rank=3
+Node 4: frag=1 rank=6
+Node 5: frag=1 rank=6
+Node 6: frag=1 rank=6
+Node 7: frag=0 rank=10
+Node 8: frag=0 rank=7
+Node 9: frag=0 rank=2
+Node 10: frag=0 rank=2
+Node 11: frag=0 rank=1
+Node 12: frag=0 rank=1
+Node 13: frag=0 rank=0
+[Root] merges = 1
+MST complete.
+
+===== MST Construction Completed =====
+Total time:      0.00544507 sec
+Total messages:  1014
+Phases:          13
+Density:         0.153846
+
+Final Fragment State:
+Node 0 → fragment 0, rank 0
+Node 1 → fragment 0, rank 3
+Node 2 → fragment 0, rank 3
+Node 3 → fragment 0, rank 3
+Node 4 → fragment 0, rank 6
+Node 5 → fragment 0, rank 6
+Node 6 → fragment 0, rank 6
+Node 7 → fragment 0, rank 10
+Node 8 → fragment 0, rank 7
+Node 9 → fragment 0, rank 2
+Node 10 → fragment 0, rank 2
+Node 11 → fragment 0, rank 1
+Node 12 → fragment 0, rank 1
+Node 13 → fragment 0, rank 0
+
+MST edges:
+13 -- 0 (w=2)
+10 -- 11 (w=3)
+8 -- 9 (w=3)
+2 -- 3 (w=4)
+9 -- 10 (w=11)
+12 -- 13 (w=5)
+5 -- 6 (w=15)
+7 -- 8 (w=15)
+3 -- 4 (w=16)
+1 -- 2 (w=16)
+11 -- 12 (w=16)
+4 -- 5 (w=17)
+0 -- 1 (w=18)
+Total MST edges: 13 (expected 13)

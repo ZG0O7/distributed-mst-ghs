@@ -1,0 +1,108 @@
+
+[Rank0] Generating topology...
+[Rank0] BFS complete.
+[Rank0] Starting MST...
+
+===== Phase 1 =====
+Node 0: frag=0 rank=0
+Node 1: frag=1 rank=0
+Node 2: frag=2 rank=0
+Node 3: frag=3 rank=0
+Node 4: frag=4 rank=0
+Node 5: frag=5 rank=0
+Node 6: frag=6 rank=0
+Node 7: frag=7 rank=0
+[Root] merges = 1
+
+===== Phase 2 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=2 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=4 rank=1
+Node 5: frag=5 rank=1
+Node 6: frag=6 rank=1
+Node 7: frag=7 rank=1
+[Root] merges = 1
+
+===== Phase 3 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=2 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=3 rank=1
+Node 5: frag=5 rank=2
+Node 6: frag=6 rank=2
+Node 7: frag=7 rank=2
+[Root] merges = 1
+
+===== Phase 4 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=2 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=3 rank=1
+Node 5: frag=3 rank=2
+Node 6: frag=6 rank=3
+Node 7: frag=7 rank=3
+[Root] merges = 1
+
+===== Phase 5 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=2 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=3 rank=1
+Node 5: frag=3 rank=2
+Node 6: frag=6 rank=3
+Node 7: frag=6 rank=3
+[Root] merges = 1
+
+===== Phase 6 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=0 rank=1
+Node 3: frag=3 rank=1
+Node 4: frag=3 rank=1
+Node 5: frag=3 rank=2
+Node 6: frag=6 rank=3
+Node 7: frag=6 rank=3
+[Root] merges = 1
+
+===== Phase 7 =====
+Node 0: frag=0 rank=0
+Node 1: frag=0 rank=0
+Node 2: frag=0 rank=1
+Node 3: frag=0 rank=1
+Node 4: frag=0 rank=1
+Node 5: frag=0 rank=2
+Node 6: frag=6 rank=3
+Node 7: frag=6 rank=3
+[Root] merges = 1
+MST complete.
+
+===== MST Construction Completed =====
+Total time:      0.00343107 sec
+Total messages:  294
+Phases:          7
+Density:         0.25
+
+Final Fragment State:
+Node 0 → fragment 0, rank 0
+Node 1 → fragment 0, rank 0
+Node 2 → fragment 0, rank 1
+Node 3 → fragment 0, rank 1
+Node 4 → fragment 0, rank 1
+Node 5 → fragment 0, rank 2
+Node 6 → fragment 0, rank 3
+Node 7 → fragment 0, rank 3
+
+MST edges:
+0 -- 1 (w=1)
+3 -- 4 (w=1)
+4 -- 5 (w=10)
+6 -- 7 (w=10)
+1 -- 2 (w=11)
+2 -- 3 (w=16)
+5 -- 6 (w=16)
+Total MST edges: 7 (expected 7)
